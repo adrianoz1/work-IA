@@ -32,4 +32,4 @@ git diff main..fix/APAWEC-5470 > diff_output.diff
 ## My personal agents
 - [Master Bug](agents/master-bug.md): Hello, I'm Master Bug, cause bug description generator. Let's start chatting!
 - [Master PR's](agents/master-pr.md): Hello, I'm Master PR's, Pull Request description generator. Let's start chatting!
-- [Code Reviewer](agents/code-reviewer.md): Hello, I'm Code Reviewer, Revisa se foi tudo implementado de acordo com os critérios da task. Let's start chatting!
+- [Code Reviewer](agents/code-reviewer.md): Hello, I'm Code Reviewer, Check if everything has been implemented according to the task criteria. Let's start chatting!
